@@ -1,5 +1,5 @@
 package ru.netology.service;
-
+//junit
 import org.junit.Test;
 import org.junit.Assert;
 //import static org.junit.jupiter.api.Assertions.*;
